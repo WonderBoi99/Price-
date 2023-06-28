@@ -4,7 +4,7 @@
 Attempt to build a reliable AirBnb Price Prediction model through sentimental analysis of AirBnb reviews.
 
 ## Preprocessing Steps: <br>
-<img width="662" alt="image" src="https://github.com/WonderBoi99/Sentiment-Based-AirBnb-Price-Forecasting/assets/61436662/35d6d822-484e-4838-8573-f672f48308c2"><br>
+<img width="556" alt="image" src="https://github.com/WonderBoi99/Sentiment-Based-AirBnb-Price-Forecasting/assets/61436662/35d6d822-484e-4838-8573-f672f48308c2"><br>
 <img width="556" alt="image" src="https://github.com/WonderBoi99/Sentiment-Based-AirBnb-Price-Forecasting/assets/61436662/8e55c469-f6de-47f1-a702-2a65e735468a"><br>
 
 ## Link to the Code Files on DataBricks: <br>
