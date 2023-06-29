@@ -1,7 +1,7 @@
 # Sentiment-Based Airbnb Price Forecasting
 
 ## About: <br>
-Attempt to build a reliable AirBnb Price Prediction model through sentimental analysis of AirBnb reviews.
+In collaboration with a team of three, we attempted to build a reliable Airbnb Price Prediction model by integrating sentiment analysis of listing reviews with the listing information. Using the Databricks platform, we performed Big Data Analysis to construct this model. To ensure data quality, we preprocessed the raw review data by filtering for English reviews, eliminating stop words, removing punctuation, spellchecking words, and applying the Snowball Stemmer. Additionally, we experimented with TF-IDF and hashingTF techniques to extract relevant features from the preprocessed reviews. Throughout the development process, we explored various machine learning algorithms, including random forest, naive Bayes, logistic regression, linear regression, decision trees, and gradient boosting, to optimize the model's performance.
 
 ## Preprocessing Steps: <br>
 <img width="556" alt="image" src="https://github.com/WonderBoi99/Sentiment-Based-AirBnb-Price-Forecasting/assets/61436662/35d6d822-484e-4838-8573-f672f48308c2"><br>
