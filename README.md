@@ -29,7 +29,7 @@ The primary goal was to develop an AI model to generate accurate price estimates
   ![Screenshot 2024-08-05 at 8 49 33 AM](https://github.com/user-attachments/assets/6c180bf0-9558-4070-a165-a668db80589c)
 
 ## Reflection 🤔
-- Sentimental Analysis was beneficial to the overall model performance
+- Sentimental Analysis was beneficial to the price pridiction model performance
 - Need more data
 
 ## More Information 📖
