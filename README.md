@@ -19,7 +19,9 @@ The primary goal was to develop an AI model to generate accurate price estimates
   ![Screenshot 2024-08-05 at 8 13 47 AM](https://github.com/user-attachments/assets/d7a7e803-384b-4b69-8d1b-2379405f1fd1)
 - **Creating Natural Language Processing Model:** experimented with Machine Learning classification algorithms like Random forest, Naive Bayes, and Logistic regression (best result)<br/>
   ![Screenshot 2024-08-05 at 8 23 07 AM](https://github.com/user-attachments/assets/07e411d6-4bde-45e4-988e-c25cf4011650)
-- 
+- Used Natural Language Processing Model to label all the unlabelled reviews:<br/>
+  ![Screenshot 2024-08-05 at 8 40 36 AM](https://github.com/user-attachments/assets/765d69b7-d865-49cf-b50c-fcb4e0964ae4)
+
 
 - Experimented with different Machine Learning algorithms for the price prediction model:
   - Linear Regression
