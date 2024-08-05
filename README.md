@@ -18,9 +18,9 @@ The primary goal was to develop an AI model to generate accurate price estimates
 - **Data Preprocessing:** <br/>
   ![Screenshot 2024-08-04 at 10 33 36 PM](https://github.com/user-attachments/assets/4bb1c5c0-9beb-4e4f-a8e0-1028e857f053)
 - **Data Sentiment Labeling:** since manual sentiment labeling was tedious and time-consuming, prompted ChatGPT to label the reviews as Position (2), Negative (0), or Neutral (1).<br/>
-  ![Screenshot 2024-08-05 at 8 13 47 AM](https://github.com/user-attachments/assets/d7a7e803-384b-4b69-8d1b-2379405f1fd1)
+  ![Screenshot 2024-08-05 at 9 05 04 AM](https://github.com/user-attachments/assets/b9833861-244a-426f-97f7-423dcfaf97a8)
 - **Creating Natural Language Processing Model:** experimented with Machine Learning classification algorithms like Logistic regression (best result), Random forest, and Naive bayes.<br/>
-  ![Screenshot 2024-08-05 at 8 23 07 AM](https://github.com/user-attachments/assets/07e411d6-4bde-45e4-988e-c25cf4011650)
+  ![Screenshot 2024-08-05 at 9 06 33 AM](https://github.com/user-attachments/assets/8bafde27-e1d5-441a-a1e0-af3a80b94a6d)
 - **Used Natural Language Processing Model to label all the unlabelled reviews:**<br/>
   ![Screenshot 2024-08-05 at 8 40 36 AM](https://github.com/user-attachments/assets/765d69b7-d865-49cf-b50c-fcb4e0964ae4)
 - **Creating Price Prediction Model:** experimented with Machine Learning regression algorithms like Linear regression(best result), Decision Tree, and Gradient boosting(best result).<br/>
