@@ -7,8 +7,10 @@ The primary goal was to develop an AI model to generate accurate price estimates
 
 ## Tech Stack 🧰
 - Python
+- Pandas
 - PySpark
 - Databricks
+- ChatGPT
 
 ## Steps taken 🪜
 - **Data Collection:** data source was from Airbnb properties in New York City, obtained from [Inside Airbnb](https://insideairbnb.com/).<br/>
