@@ -26,8 +26,11 @@ The primary goal was to develop an AI model to generate accurate price estimates
 - **Fine Tuning of HyperParameters to optimize model performance:**<br/>
   ![Screenshot 2024-08-05 at 8 49 33 AM](https://github.com/user-attachments/assets/6c180bf0-9558-4070-a165-a668db80589c)
 
-## More Details: <br>
-Please refer to the Price Prediction Model Report.pdf in this repository.
+## Outcome 🤔
+Need more data
+
+## More Information 📖
+Please refer to the [Detailed Project Report](https://github.com/Nikhil-Naikar/Airbnb-Pricing-Intelligence/blob/main/Price%20Prediction%20Model%20Report.pdf).
 
 
  
