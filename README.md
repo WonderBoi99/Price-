@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-08-04 at 10 31 06 PM](https://github.com/user-attachments/assets/a5acaa77-7f18-4920-8799-7040fc2fefc9)
 
-## Short Description 📋
+## Objectives 📋
 The primary goal was to develop an AI model to generate accurate price estimates for Airbnb properties based on listing data (e.g., location, number of bedrooms). Another objective was to determine if incorporating sentiment analysis of reviews (positive, negative, neutral) could enhance the model's accuracy.
 
 ## Tech Stack 🧰
@@ -10,7 +10,7 @@ The primary goal was to develop an AI model to generate accurate price estimates
 - PySpark
 - Databricks
 
-## Steps taken to build this model 🪜
+## Steps taken 🪜
 - Data Collection: data source was from Airbnb properties in New York City, obtained from [Inside Airbnb](https://insideairbnb.com/)<br/>
   
 - Data Preprocessing <br/>
