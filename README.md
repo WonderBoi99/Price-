@@ -12,7 +12,7 @@ The primary goal was to develop an AI model to generate accurate price estimates
 
 ## Steps taken 🪜
 - Data Collection: data source was from Airbnb properties in New York City, obtained from [Inside Airbnb](https://insideairbnb.com/)<br/>
-  
+  ![Screenshot 2024-08-05 at 8 13 47 AM](https://github.com/user-attachments/assets/88250ad3-1cae-4023-9910-8934e9da1d49)
 - Data Preprocessing <br/>
   ![Screenshot 2024-08-04 at 10 33 36 PM](https://github.com/user-attachments/assets/4bb1c5c0-9beb-4e4f-a8e0-1028e857f053)
 - Data Sentiment Labeling
