@@ -29,7 +29,9 @@ The primary goal was to develop an AI model to generate accurate price estimates
   ![Screenshot 2024-08-05 at 8 49 33 AM](https://github.com/user-attachments/assets/6c180bf0-9558-4070-a165-a668db80589c)
 
 ## Reflection 🤔
-- Sentimental Analysis was beneficial to the price pridiction model performance
+- Painful lesson learned, the first model usually isn't the best, need to iteratively fine-tune hyperparameters over continuous tests!
+- Data Cleaning is a very important
+- Sentimental Analysis was beneficial to the price prediction model performance
 - Need more data
 
 ## More Information 📖
