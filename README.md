@@ -25,7 +25,7 @@ The primary goal was to develop an AI model to generate accurate price estimates
   ![Screenshot 2024-08-05 at 8 40 36 AM](https://github.com/user-attachments/assets/765d69b7-d865-49cf-b50c-fcb4e0964ae4)
 - **Creating Price Prediction Model:** experimented with Machine Learning regression algorithms like Linear regression(best result), Decision Tree, and Gradient boosting(best result).<br/>
   ![Screenshot 2024-08-05 at 8 46 54 AM](https://github.com/user-attachments/assets/541ee6cd-988d-4f1f-85ba-3aa33d6c0688)
-- **Fine Tuning of HyperParameters to optimize model performance:**<br/>
+- **Fine Tuning of HyperParameters to optimize model performance**<br/>
   ![Screenshot 2024-08-05 at 8 49 33 AM](https://github.com/user-attachments/assets/6c180bf0-9558-4070-a165-a668db80589c)
 
 ## Reflection 🤔
